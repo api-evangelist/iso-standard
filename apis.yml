@@ -1,12 +1,24 @@
+aid: iso-standard
 name: ISO Standard
-description: ISO Standard is a specialized technology or methodology in the iso domain
-  that addresses specific technical or business requirements. It provides targeted
-  capabilities that help practitioners and organizations solve problems and improve
-  outcomes in their area of focus.
-url: null
+description: >-
+  ISO Standards are internationally agreed-upon standards developed by the
+  International Organization for Standardization (ISO) to ensure quality,
+  safety, and efficiency across products, services, and systems worldwide.
+  ISO standards cover a wide range of domains including technology, healthcare,
+  manufacturing, and environmental management.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- ISO Standard
-created: '2025'
-modified: '2025'
+  - ISO Standard
+  - Standards
+  - Certification
+  - Quality
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/iso-standard/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
