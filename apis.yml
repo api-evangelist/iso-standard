@@ -9,10 +9,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - ISO Standard
-  - Standards
   - Certification
+  - ISO Standard
   - Quality
+  - Standards
 url: >-
   https://raw.githubusercontent.com/api-evangelist/iso-standard/refs/heads/main/apis.yml
 created: '2025-01-01'
