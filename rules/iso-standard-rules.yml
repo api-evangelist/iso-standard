@@ -1,0 +1,25 @@
+aid: iso-standard
+name: ISO Standard Rules
+description: >-
+  Governance and curation rules for the ISO Standard index within the
+  API Evangelist network. Tracks standards published by the International
+  Organization for Standardization (ISO).
+rules:
+  - name: Index Scope
+    description: Track ISO standards relevant to APIs and digital systems.
+    conditions:
+      - Type must remain Index for collections of standards.
+      - Tags must include ISO Standard, Standards, Certification.
+      - No standalone OpenAPI is generated for this index.
+  - name: Standards Catalog
+    description: Curate references to specific ISO standards.
+    conditions:
+      - Add notable standards (e.g., ISO 27001, ISO 9001) as APIs entries when documented.
+      - Each entry must include humanURL on iso.org and a description.
+      - Avoid duplication with the iso company index.
+  - name: Metadata Currency
+    description: Keep entry metadata accurate.
+    conditions:
+      - Update modified date on changes.
+      - README.md kept in sync with apis.yml.
+      - Maintainer remains Kin Lane unless otherwise specified.

@@ -5,9 +5,9 @@ ISO Standards are internationally agreed-upon standards developed by the Interna
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
 ## Tags:
 
@@ -15,8 +15,17 @@ ISO Standards are internationally agreed-upon standards developed by the Interna
 
 ## Timestamps
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Created:** 2025-01-01
+- **Modified:** 2026-04-28
+
+## APIs
+
+No specific ISO standards have been catalogued as API entries yet. Check back for updates.
+
+## Common Properties
+
+- [Website](https://www.iso.org)
+- [Standards](https://www.iso.org/standards.html)
 
 ## Maintainers
 
