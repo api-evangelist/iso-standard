@@ -1,5 +1,5 @@
-aid: iso-standard
-name: ISO Standard Rules
+x-aid: iso-standard
+x-name: ISO Standard Rules
 description: >-
   Governance and curation rules for the ISO Standard index within the
   API Evangelist network. Tracks standards published by the International
